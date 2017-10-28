@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge, chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+
+    <title>Macy.js - A lightweight, dependency free, JavaScript masonry layout library</title>
+
+    <link rel="stylesheet" href="assets/css/macy.css">
+    <link rel="stylesheet" href="//assets/css/icons.css">
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="assets/img/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="assets/img/favicons/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="assets/img/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="assets/img/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="assets/img/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="assets/img/favicons/manifest.json">
+    <link rel="shortcut icon" href="assets/img/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="assets/img/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="assets/img/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+
+
+                <div id="macy-container">
+                    <div><img src="https://picsum.photos/557/387/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/602/660/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/660/646/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/741/375/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/813/455/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/470/896/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/664/653/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/708/313/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/738/578/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/458/482/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/439/856/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/549/315/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/877/693/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/542/805/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/683/445/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/616/340/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/533/317/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/700/894/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/663/541/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/368/575/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/696/538/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/571/460/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/892/379/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/473/729/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/657/632/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/311/796/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/588/561/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/812/564/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/353/454/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/468/737/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/600/784/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/777/833/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/801/576/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/826/564/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/390/240/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/557/387/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/602/660/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/660/646/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/741/375/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/813/455/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/470/896/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/664/653/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/708/313/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/738/578/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/458/482/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/439/856/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/549/315/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/877/693/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/542/805/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/683/445/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/616/340/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/533/317/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/700/894/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/663/541/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/368/575/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/696/538/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/571/460/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/892/379/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/473/729/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/657/632/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/311/796/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/588/561/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/812/564/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/353/454/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/468/737/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/600/784/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/777/833/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/801/576/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/826/564/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/390/240/?random" alt="" ></div>
+                    <div><img src="https://picsum.photos/390/130/?random" alt="" ></div>
+                </div>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/macy@2.2.0/dist/macy.min.js"></script>
+    <script>
+       var masonry = new Macy({
+        container: '#macy-container',
+        trueOrder: false,
+        waitForImages: false,
+        useOwnImageLoader: false,
+        debug: true,
+        margin: {
+            x: 50,
+            y: 50
+        },
+        columns: 4,
+        breakAt: {
+          1200: {
+            columns: 4,
+            margin: {
+                x: 24,
+                y: 24
+            }
+          },
+          940: {
+            margin: {
+                x: 24,
+                y: 24
+            }
+          },
+          520: {
+            columns: 3,
+            margin: {
+              x: 16,
+              y: 16
+            },
+          },
+          400: {
+            columns: 2
+          }
+        }
+      });
+    </script>
+</body>
+</html>
